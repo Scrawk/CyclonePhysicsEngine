@@ -1,5 +1,5 @@
 # CyclonePhysicsEngine
-C# port of the [Cylcone physics engine](https://github.com/idmillington/cyclone-physics/blob/master/LICENSE) based on the book Game Physics Engine Design.
+C# port of the [Cylcone physics engine](https://github.com/idmillington/cyclone-physics) based on the book Game Physics Engine Design.
 
 I have made some small changes and restructured the code a little.
 
